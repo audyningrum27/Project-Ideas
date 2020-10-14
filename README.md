@@ -25,3 +25,6 @@ Write an app that converts Farenheit to Celcius and back. [(details)](https://gi
 
 ## Countdown Timer App
 Write an app that counts down to 0 from a time (say, five minutes).  [(details)](https://gist.github.com/cferdinandi/795c87138f65911aefa44eb1e21bd8bf)
+
+## Number Guess
+Write a Python script where the computer randomly generates a number between 0 and 20. The user needs to guess what the number is. If the user guesses wrong, tell them their guess is either too high, or too low. [(details)](https://github.com/TheSussex/SCA-Weekly-Assignments/blob/master/Week1%20%20Python/Number%20Guess.ipynb)
